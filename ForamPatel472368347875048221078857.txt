@@ -1,0 +1,45 @@
+Chequing Account - Money Deposited: 10000.0, Fee charged : 1.5
+Savings Account - Money Deposited: 100000.0, Fee charged - 0.0
+Savings Account - Money Withdrawn: 1000.0, Fee charged: 0.0
+Chequing Account - Money Withdrawn: 1000.0, Fee charged: 49.9925
+Savings Account - Money Withdrawn: 10000.0, Fee charged: 0.0, Balance: 89000.0
+Chequing Account - Money Deposited: 40000.0, Fee charged : 1.5, Balance: 48947.0075
+Savings Account - Money Deposited: 1100.0, Fee charged: 0.0, Balance: 93100.0
+Savings Account - Money Deposited: 10000.0, Fee charged: 0.0, Balance: 103100.0
+Chequing Account - Money Withdrawn: 10000.0, Fee charged: 244.74, Balance: 38702.2675
+Chequing Account - Money Withdrawn: 1000.0, Fee charged: 193.51, Balance: 37508.7575
+Chequing Account - Money Withdrawn: 1000.0, Fee charged: 187.54, Balance: 36321.2175
+Chequing Account - Money Withdrawn: 2000.0, Fee charged: 181.61, Balance: 34139.6075
+Chequing Account - Money Deposited: 1000.0, Fee charged : 1.5, Balance: 35138.1075
+Savings Account - Money Withdrawn: 10000.0, Fee charged: 0.0, Balance: 93100.0
+Savings Account - Money Withdrawn: 10000.0, Fee charged: 0.0, Balance: 83100.0
+Savings Account - Money Deposited: 10000.0, Fee charged: 0.0, Balance: 93100.0
+Savings Account - Money Deposited: 100.0, Fee charged: 0.0, Balance: 93200.0
+Chequing Account - Money Deposited: 100000.0, Fee charged : 1.5, Balance: 135136.60749999998
+Chequing Account - Money Withdrawn: 10000.0, Fee charged: 675.6830375, Balance: 124460.92446249998
+Chequing Account - Money Withdrawn: 1000.0, Fee charged: 622.3, Balance: 122838.62
+Chequing Account - Money Withdrawn: 10000.0, Fee charged: 614.19, Balance: 112224.43
+Savings Account - Money Deposited: 1000.0, Fee charged: 0.0, Balance: 94200.0
+Chequing Account - Money Withdrawn: 100000.0, Fee charged: 561.12, Balance: 11663.31
+Savings Account - Money Deposited: 1000.0, Fee charged: 0.0, Balance: 95200.0
+Chequing Account - Money Withdrawn: 1000.0, Fee charged: 58.32, Balance: 10604.99
+Chequing Account - Money Withdrawn: 1000.0, Fee charged: 53.02, Balance: 9551.97
+Chequing Account - Money Deposited: 10000.0, Fee charged : 1.5, Balance: 19550.47
+Chequing Account - Money Deposited: 1000.0, Fee charged : 1.5, Balance: 20548.97
+Savings Account - Money Deposited: 1000.0, Fee charged: 0.0, Balance: 97200.0
+Savings Account - Money Deposited: 1000.0, Fee charged: 0.0, Balance: 98200.0
+Savings Account - Money Deposited: 1000.0, Fee charged: 0.0, Balance: 99200.0
+Chequing Account - Money Withdrawn: 1000.0, Fee charged: 102.74, Balance: 19446.23
+Chequing Account - Money Deposited: 1000.0, Fee charged : 1.5, Balance: 21443.23
+Chequing Account - Money Withdrawn: 1000.0, Fee charged: 107.22, Balance: 20336.01
+Savings Account - Money Deposited: 1000.0, Fee charged: 0.0, Balance: 100200.0
+Savings Account - Money Withdrawn: 1000.0, Fee charged: 0.0, Balance: 99200.0
+Savings Account - Money Withdrawn: 1000.0, Fee charged: 0.0, Balance: 98200.0
+Savings Account - Money Deposited: 0.0, Fee charged: 0.0, Balance: 98200.0
+Chequing Account - Money Deposited: 0.0, Fee charged : 1.5, Balance: 20334.51
+Savings Account - Money Withdrawn: 10000.0, Fee charged: 0.0, Balance: 88200.0
+Savings Account - Money Deposited: 1000.0, Fee charged: 0.0, Balance: 89200.0
+Savings Account - Money Deposited: 10000.0, Fee charged: 0.0, Balance: 99200.0
+Chequing Account - Money Deposited: 10000.0, Fee charged : 1.5, Balance: 30333.01
+Savings Account - Money Withdrawn: 10000.0, Fee charged: 0.0, Balance: 89200.0
+Chequing Account - Money Withdrawn: 10000.0, Fee charged: 151.67, Balance: 20181.34
