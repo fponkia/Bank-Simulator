@@ -18,7 +18,7 @@ import javax.swing.JTextField;
  * 
  */
 /**
- * @author Kush Patel
+ * @author Foram Patel
  * Date: 2021-06-20
  * Description: The GUI which handles the employee panel. This class creates the bank customer managing window. Requires a pin to access this window.
  * 
