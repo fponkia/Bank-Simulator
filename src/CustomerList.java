@@ -8,7 +8,7 @@ import javax.swing.JOptionPane;
 
 
 /*
- * Author: Sparsh Soni
+ * Author: Foram Patel
  * Date: 2021/06/19
  * Description: The customer list class
  */
