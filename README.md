@@ -9,9 +9,9 @@ Following are the list of the classes and files that are needed to run the progr
 4. Chequing.java - Made by Foram Patel
 5. CustomerGUI.java - Made by Foram Patel
 6. InitialFrame.java - Made by Foram Patel
-7. CustomerRecord.java - Made by Sparsh Soni
-8. CustomerList.java - Made by Sparsh Soni
-9. BankRecords.java - Made by Kush Patel
+7. CustomerRecord.java - Made by Foram Patel
+8. CustomerList.java - Made by Foram Patel
+9. BankRecords.java - Made by Foram Patel
 10. logins.txt - Made by Foram Patel - Stores all the of the customers information.
 11. BankEmployee.txt - Made by Foram Patel - Stores all the of the customers information but it is different than the above file.
 12. employeePin.txt - Made by Foram Patel
